@@ -1,13 +1,16 @@
 {
   "product": "Snap It",
   "channel": "base",
-  "version": "2026.10.23.08",
+  "version": "2026.10.23.09",
   "notes": [
-    "Improved: Snaps in the installed app now capture the screen exactly as it is, including Snap It itself and any open menus.",
-    "Fixed: The countdown number no longer shows up in your snap."
+    "New: More shapes to draw, including triangle, diamond, pentagon, hexagon, star, heart, plus, block arrow, chevron, check mark, cross and rounded box.",
+    "New: An eraser tool that rubs out your marks. Press E to pick it.",
+    "New: The eraser shows as a circle the size it erases. Set its size with the slider next to the tool.",
+    "New: Hold Shift and scroll over the picture to change the size of the pen, highlighter, shapes, eraser or text. A small preview shows the size as you go.",
+    "Improved: The first-snap instructions and the New snap tooltip now show the shortcut keys you chose."
   ],
-  "date": "2026-10-23T19:03:50.640Z",
-  "url": "https://github.com/ViperProDiagnostics/SnapIt-Updates/releases/download/base-2026.10.23.08/web.zip",
-  "sha256": "f47118522f8716969c3f5b091dbbf1802c238d9df05677b709c0b3e91919b07d",
-  "size": 1026233
+  "date": "2026-10-23T20:54:47.154Z",
+  "url": "https://github.com/ViperProDiagnostics/SnapIt-Updates/releases/download/base-2026.10.23.09/web.zip",
+  "sha256": "1649e6120e638051f1580458d4afe16adcf6ce2a92298528998329d209f335e3",
+  "size": 1029674
 }
