@@ -1,16 +1,16 @@
 {
   "product": "Snap It",
   "channel": "base",
-  "version": "2026.10.23.09",
+  "version": "2026.10.23.10",
   "notes": [
-    "New: More shapes to draw, including triangle, diamond, pentagon, hexagon, star, heart, plus, block arrow, chevron, check mark, cross and rounded box.",
-    "New: An eraser tool that rubs out your marks. Press E to pick it.",
-    "New: The eraser shows as a circle the size it erases. Set its size with the slider next to the tool.",
-    "New: Hold Shift and scroll over the picture to change the size of the pen, highlighter, shapes, eraser or text. A small preview shows the size as you go.",
-    "Improved: The first-snap instructions and the New snap tooltip now show the shortcut keys you chose."
+    "New: A Select tool, the arrow button at the left of the markup toolbar (or press V). Click anything you added to pick it, then move it or drag its corners to resize it.",
+    "New: Pen strokes, highlights, shapes and blurs can now be picked, moved and resized, not just text.",
+    "Improved: Double-click a piece of text with the Select tool to edit it.",
+    "Improved: Choosing a save folder now shows a clear message right under the buttons, so you always know what happened.",
+    "Fixed: When a folder can't be chosen on this page, the button now says so instead of seeming to do nothing."
   ],
-  "date": "2026-10-23T20:54:47.154Z",
-  "url": "https://github.com/ViperProDiagnostics/SnapIt-Updates/releases/download/base-2026.10.23.09/web.zip",
-  "sha256": "1649e6120e638051f1580458d4afe16adcf6ce2a92298528998329d209f335e3",
-  "size": 1029674
+  "date": "2026-10-23T21:17:09.709Z",
+  "url": "https://github.com/ViperProDiagnostics/SnapIt-Updates/releases/download/base-2026.10.23.10/web.zip",
+  "sha256": "09ca0f29dfccb59746adec4d698981524685d768ba784caeb35a7f945c92cc5d",
+  "size": 1030838
 }
