@@ -1,13 +1,13 @@
 {
   "product": "Snap It",
   "channel": "base",
-  "version": "2026.10.23.06",
+  "version": "2026.10.23.07",
   "notes": [
-    "New: Settings now has an About section that shows which version of Snap It you're using.",
-    "New: A \"Check for updates\" button in Settings lets you look for a newer version whenever you like."
+    "Fixed: Blurs that overlap or touch now join into one smooth blur, with no darker patches and no lines where the boxes meet.",
+    "Improved: Blurs near the edge of a picture now look even all the way to the edge."
   ],
-  "date": "2026-10-23T18:22:31.749Z",
-  "url": "https://github.com/ViperProDiagnostics/SnapIt-Updates/releases/download/base-2026.10.23.06/web.zip",
-  "sha256": "8eeeb312f1ae89a3bd776b7e90fc7e686a11390c897e39b5d6110fad0ab5b4c5",
-  "size": 1025717
+  "date": "2026-10-23T18:46:58.183Z",
+  "url": "https://github.com/ViperProDiagnostics/SnapIt-Updates/releases/download/base-2026.10.23.07/web.zip",
+  "sha256": "30b06ada851a00dde298e324ae9ee1faa0c83e3d55bedcd339498ce47bfae45a",
+  "size": 1026182
 }
