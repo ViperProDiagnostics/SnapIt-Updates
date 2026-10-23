@@ -1,13 +1,13 @@
 {
   "product": "Snap It",
   "channel": "base",
-  "version": "2026.10.23.07",
+  "version": "2026.10.23.08",
   "notes": [
-    "Fixed: Blurs that overlap or touch now join into one smooth blur, with no darker patches and no lines where the boxes meet.",
-    "Improved: Blurs near the edge of a picture now look even all the way to the edge."
+    "Improved: Snaps in the installed app now capture the screen exactly as it is, including Snap It itself and any open menus.",
+    "Fixed: The countdown number no longer shows up in your snap."
   ],
-  "date": "2026-10-23T18:46:58.183Z",
-  "url": "https://github.com/ViperProDiagnostics/SnapIt-Updates/releases/download/base-2026.10.23.07/web.zip",
-  "sha256": "30b06ada851a00dde298e324ae9ee1faa0c83e3d55bedcd339498ce47bfae45a",
-  "size": 1026182
+  "date": "2026-10-23T19:03:50.640Z",
+  "url": "https://github.com/ViperProDiagnostics/SnapIt-Updates/releases/download/base-2026.10.23.08/web.zip",
+  "sha256": "f47118522f8716969c3f5b091dbbf1802c238d9df05677b709c0b3e91919b07d",
+  "size": 1026233
 }
