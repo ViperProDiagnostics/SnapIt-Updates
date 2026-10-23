@@ -1,0 +1,13 @@
+{
+  "product": "Snap It",
+  "channel": "base",
+  "version": "2026.10.23.06",
+  "notes": [
+    "New: Settings now has an About section that shows which version of Snap It you're using.",
+    "New: A \"Check for updates\" button in Settings lets you look for a newer version whenever you like."
+  ],
+  "date": "2026-10-23T18:22:31.749Z",
+  "url": "https://github.com/ViperProDiagnostics/SnapIt-Updates/releases/download/base-2026.10.23.06/web.zip",
+  "sha256": "8eeeb312f1ae89a3bd776b7e90fc7e686a11390c897e39b5d6110fad0ab5b4c5",
+  "size": 1025717
+}
