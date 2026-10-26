@@ -1,0 +1,24 @@
+{
+  "product": "Snap It",
+  "installId": "",
+  "version": "2026.10.24.01",
+  "notes": [
+    "CLAUDE.md: updates are built in by the console",
+    "Windows installer build (added by the Viper Systems Console)",
+    "Snap It: version and Check for updates in Settings",
+    "Windows installer build (added by the Viper Systems Console)",
+    "Snap It: its logo in the title bar and as the page icon (initials only when there's no logo)",
+    "Windows installer build (added by the Viper Systems Console)",
+    "Windows installer build (added by the Viper Systems Console)",
+    "Snap It: shortcut keys work in the console's preview too; the tray options say they need the installed app",
+    "Snap It: shortcut keys for an area and the whole screen, stays in the tray, Windows notice with where it saved, saving with no save window (or ask each time)",
+    "Rebuild Snap It: snaps list and a Markup-style editor (draw, highlight, shapes, text, hide, rotate, crop), delay, settings, snaps kept between visits",
+    "Snap It shows as a window on a desktop background, like the other programs",
+    "Snap It as a web page: take a snap, drag over the part you want, saved and copied",
+    "new app code"
+  ],
+  "date": "2026-10-26T21:10:12.567Z",
+  "url": "https://github.com/ViperProDiagnostics/SnapIt-Updates/releases/download/base-2026.10.24.01/web.zip",
+  "sha256": "cfc0c9250bc6c8dd9de471b33368ca44f31dda62d7e6f0e8993d6fb88c539734",
+  "size": 1046824
+}
