@@ -1,12 +1,18 @@
 {
   "product": "Snap It",
   "installId": "N47542899",
-  "version": "2026.10.26.01",
+  "version": "2026.10.26.02",
   "notes": [
-    "Settings: Information (version, Build ID, Activated or Activate now, Developed by Viper Systems LLC)"
+    "New: Turn any mark you've added. Pick it with the Select tool and drag the round handle above it. Hold Shift to turn in 15° steps.",
+    "New: Turned text, shapes and blurs can still be moved, resized and edited.",
+    "New: Copy a picked mark with Ctrl+C and paste it with Ctrl+V, on the same snap or a different one.",
+    "New: Hold Space and drag to move around a zoomed-in picture.",
+    "Improved: Zooming now stays centered on your mouse pointer, or on the middle of the view when you use the buttons.",
+    "Improved: Ctrl + scroll wheel now zooms. The wheel on its own scrolls a zoomed-in picture up and down.",
+    "Improved: Button tips are clearer about what Rotate and Copy do, and about the new shortcuts."
   ],
-  "date": "2026-10-26T21:12:03.311Z",
-  "url": "https://github.com/ViperProDiagnostics/SnapIt-Updates/releases/download/base-2026.10.26.01/web.zip",
-  "sha256": "b05a49d52df4f88b15516770a165440d3c24b132a9cee9b663c6446922a297df",
-  "size": 1064618
+  "date": "2026-10-26T21:32:20.375Z",
+  "url": "https://github.com/ViperProDiagnostics/SnapIt-Updates/releases/download/base-2026.10.26.02/web.zip",
+  "sha256": "f05c6c75f6cd4ee86ceb6b8e4a94d491eca63fec9dfe3be6a319c2e2af5633a7",
+  "size": 1066720
 }
