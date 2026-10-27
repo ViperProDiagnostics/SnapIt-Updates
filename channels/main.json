@@ -1,18 +1,18 @@
 {
   "product": "Snap It",
   "installId": "",
-  "version": "2026.10.26.02",
+  "version": "2026.10.27.01",
   "notes": [
-    "New: Turn any mark you've added. Pick it with the Select tool and drag the round handle above it. Hold Shift to turn in 15° steps.",
-    "New: Turned text, shapes and blurs can still be moved, resized and edited.",
-    "New: Copy a picked mark with Ctrl+C and paste it with Ctrl+V, on the same snap or a different one.",
-    "New: Hold Space and drag to move around a zoomed-in picture.",
-    "Improved: Zooming now stays centered on your mouse pointer, or on the middle of the view when you use the buttons.",
-    "Improved: Ctrl + scroll wheel now zooms. The wheel on its own scrolls a zoomed-in picture up and down.",
-    "Improved: Button tips are clearer about what Rotate and Copy do, and about the new shortcuts."
+    "New: A Layers panel lists everything you add to a snap. Drag layers to reorder them, delete them, or collapse the panel to icons only.",
+    "New: Group layers together so they move, resize and turn as one. Use Ctrl+G to group and Ctrl+Shift+G to ungroup.",
+    "New: Select several marks at once by Ctrl+clicking them on the picture or in the Layers panel. You can then move, resize, turn, copy, paste or delete them together.",
+    "New: Layer up and Layer down buttons, plus Ctrl+] and Ctrl+[, move a mark above or below the others.",
+    "New: An eyedropper in the color menus picks a color from your picture. In the installed app it can pick from anywhere on the screen.",
+    "Improved: Changing the outline or fill color now recolors every selected drawing, highlight and shape, not just text.",
+    "Improved: Copy and paste now work on several marks at once, and pasted groups stay grouped."
   ],
-  "date": "2026-10-26T21:32:16.007Z",
-  "url": "https://github.com/ViperProDiagnostics/SnapIt-Updates/releases/download/base-2026.10.26.02/web.zip",
-  "sha256": "f05c6c75f6cd4ee86ceb6b8e4a94d491eca63fec9dfe3be6a319c2e2af5633a7",
-  "size": 1066720
+  "date": "2026-10-27T19:24:19.137Z",
+  "url": "https://github.com/ViperProDiagnostics/SnapIt-Updates/releases/download/base-2026.10.27.01/web.zip",
+  "sha256": "90df4556501bb3e1fa71a20e57f35d8dab8fe2aca82bb8648ba5348820806ba2",
+  "size": 1075703
 }
