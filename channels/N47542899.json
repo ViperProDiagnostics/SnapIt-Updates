@@ -1,18 +1,14 @@
 {
   "product": "Snap It",
   "installId": "N47542899",
-  "version": "2026.10.27.01",
+  "version": "2026.10.28.01",
   "notes": [
-    "New: A Layers panel lists everything you add to a snap. Drag layers to reorder them, delete them, or collapse the panel to icons only.",
-    "New: Group layers together so they move, resize and turn as one. Use Ctrl+G to group and Ctrl+Shift+G to ungroup.",
-    "New: Select several marks at once by Ctrl+clicking them on the picture or in the Layers panel. You can then move, resize, turn, copy, paste or delete them together.",
-    "New: Layer up and Layer down buttons, plus Ctrl+] and Ctrl+[, move a mark above or below the others.",
-    "New: An eyedropper in the color menus picks a color from your picture. In the installed app it can pick from anywhere on the screen.",
-    "Improved: Changing the outline or fill color now recolors every selected drawing, highlight and shape, not just text.",
-    "Improved: Copy and paste now work on several marks at once, and pasted groups stay grouped."
+    "Fixed: Choosing a shortcut key now works properly when you press a key you already use for another shortcut.",
+    "Fixed: Print Screen can now be picked as a shortcut key. Windows only reports it when the key is let go, and this is now handled.",
+    "Improved: Your existing shortcuts are paused while you pick a new one, so they won't take a snap in the middle. They come back when you finish."
   ],
-  "date": "2026-10-27T19:24:24.033Z",
-  "url": "https://github.com/ViperProDiagnostics/SnapIt-Updates/releases/download/base-2026.10.27.01/web.zip",
-  "sha256": "90df4556501bb3e1fa71a20e57f35d8dab8fe2aca82bb8648ba5348820806ba2",
-  "size": 1075703
+  "date": "2026-10-28T17:19:11.768Z",
+  "url": "https://github.com/ViperProDiagnostics/SnapIt-Updates/releases/download/base-2026.10.28.01/web.zip",
+  "sha256": "209e0d43aa192444abc84983ae6c8a4523f745f32d08147bfcbc3f67b58dbd6f",
+  "size": 1075866
 }
