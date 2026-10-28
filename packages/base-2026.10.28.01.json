@@ -1,0 +1,14 @@
+{
+  "product": "Snap It",
+  "line": "base",
+  "version": "2026.10.28.01",
+  "notes": [
+    "Fixed: Choosing a shortcut key now works properly when you press a key you already use for another shortcut.",
+    "Fixed: Print Screen can now be picked as a shortcut key. Windows only reports it when the key is let go, and this is now handled.",
+    "Improved: Your existing shortcuts are paused while you pick a new one, so they won't take a snap in the middle. They come back when you finish."
+  ],
+  "date": "2026-10-28T17:19:02.354Z",
+  "url": "https://github.com/ViperProDiagnostics/SnapIt-Updates/releases/download/base-2026.10.28.01/web.zip",
+  "sha256": "209e0d43aa192444abc84983ae6c8a4523f745f32d08147bfcbc3f67b58dbd6f",
+  "size": 1075866
+}
